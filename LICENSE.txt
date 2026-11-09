@@ -1,0 +1,72 @@
+PRISMA LICENCE
+Version 1.1 - 9 November 2026
+
+Please read this licence to the end. You must accept it before installing or using Prisma. If you do not accept it, do not install, copy or use Prisma.
+
+1. DEFINITIONS
+
+"Licensor" means Mash, the author of Prisma.
+"Prisma" or "the Software" means the Prisma program, its engine, its pack of recipes and fingerprints, its settings, its keys, its documentation and any update of them, but not the Third-Party Components.
+"Third-Party Components" means the software and models listed in section 7, which Prisma downloads from their own publishers and which stay under their own licences.
+"Source Material" means any game files or other content that you point Prisma to, or that Prisma reads.
+"Output" means any file, picture or data made with Prisma, in whole or in part, and any copy, edit or conversion of it.
+"Commercial Use" means any use that is intended for, or directed toward, commercial advantage or money or anything of value, including selling, renting or licensing, offering a paid product or service, using in or for any product, release, remaster, port or update that is sold or distributed by a company, and any use by or on behalf of a company, a publisher, a developer, or a rights holder of any Source Material.
+
+2. ACCEPTANCE
+
+You accept this licence by ticking the boxes and choosing "I accept" in Prisma, or by installing, copying or using Prisma. You confirm that you are of legal age where you live, or that a parent or guardian accepts it for you. Prisma records your acceptance on your own computer (section 8).
+
+3. WHAT YOU MAY DO
+
+The Licensor grants you a personal, non-exclusive, non-transferable, revocable, free licence to install and use Prisma on computers you own or control, for your own personal, non-commercial purposes only.
+
+4. WHAT YOU MAY NOT DO
+
+You may not, and you may not let anyone else:
+a) make any Commercial Use of Prisma or of any Output;
+b) sell, share, publish, upload, rent, lend or otherwise distribute Prisma, in whole or in part, or any Output, except copying Prisma unchanged from the Licensor's own release page;
+c) sublicense Prisma, or include Prisma or any Output in another product, tool, pack, mod or service;
+d) use Prisma or any Output to train, tune or evaluate any machine learning model;
+e) remove, hide or alter any notice of Prisma, or any information that Prisma puts into an Output;
+f) decompile, disassemble or reverse engineer Prisma, except to the extent the law that applies to you allows it whatever this licence says (in France, article L.122-6-1 of the Intellectual Property Code);
+g) use Prisma on Source Material you do not lawfully own, or in breach of the terms of that Source Material.
+
+You may keep and use Outputs on your own computers, for your own personal, non-commercial use of the Source Material they come from. You may share screenshots and recordings of your own personal play, made for no money, as long as they do not give anyone the Outputs themselves in a form that can be reused.
+
+5. SOURCE MATERIAL
+
+Prisma contains no Source Material. You must have a lawful copy of the Source Material you use with it. The Licensor grants no right of any kind in any Source Material. Outputs are made from Source Material that belongs to its own rights holders and stay subject to their rights: owning an Output gives you no right in the Source Material. You alone are responsible for respecting the terms that apply to the Source Material you use.
+
+6. OWNERSHIP
+
+Prisma, its methods, settings, recipes and fingerprints are the Licensor's work and are protected by copyright. The Licensor keeps every right that this licence does not expressly grant to you.
+
+7. THIRD-PARTY COMPONENTS
+
+Prisma downloads the following components from their own publishers when it is set up, and checks each download against a fixed fingerprint. Each stays under its own licence, which you must also respect. Their full notices are in THIRD_PARTY_NOTICES.txt.
+- Python (Python Software Foundation Licence), PyTorch (BSD-3-Clause) and other Python libraries under their own open source licences;
+- SeedVR2 and its code (ByteDance Seed, Apache-2.0) and its command line program (numz, Apache-2.0);
+- 4x-UltraSharp by Kim2091 (CC BY-NC-SA 4.0: non-commercial only);
+- 4xNomos8kSC by Helaman (Phhofm) (CC BY 4.0);
+- the other upscaling models Prisma can download, each under its own licence (some non-commercial), listed in full with their authors and licences in THIRD_PARTY_NOTICES.txt.
+Nothing in this licence restricts what the licence of a Third-Party Component allows for that component on its own.
+
+8. PRIVACY
+
+Prisma sends no data about you or your computer to anyone. It connects to the internet only to download the Third-Party Components from the addresses listed in its setup files, and, if you have enabled it, to check for a new version of Prisma at its own release page. Your acceptance (the name or nickname you type, the date, the version of this licence, a random identifier) is stored on your computer in %APPDATA%\Prisma\acceptance.json.
+
+9. TERMINATION
+
+This licence ends at once, without notice, if you break any of its terms. You must then stop using Prisma and delete it and every Output. Sections 4 to 6 and 9 to 12 still apply after it ends.
+
+10. NO WARRANTY
+
+Prisma is provided "as is", free of charge, without warranty of any kind, to the extent the law allows. It needs a powerful computer and may take hours; it may not work on yours.
+
+11. LIABILITY
+
+To the extent the law allows, the Licensor is not liable for any damage or loss arising from Prisma or its use, including loss of data. Nothing in this licence limits liability that the law does not allow to be limited, such as liability for gross negligence or wilful misconduct.
+
+12. GENERAL
+
+Prisma is an independent project. It is not affiliated with, endorsed by or connected to any game publisher, developer or rights holder. All trademarks belong to their owners. This licence is governed by French law. Any dispute belongs to the competent French courts, subject to any mandatory rule that protects you as a consumer where you live. If a term of this licence is found invalid, the rest still applies. A new version of this licence applies only once you accept it.

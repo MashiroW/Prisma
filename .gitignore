@@ -1,0 +1,10 @@
+# Prisma keeps no source and no secrets in this repository.
+keys/
+*.pfx
+*.key
+*.hex
+build/
+__pycache__/
+*.pyc
+*.pyd
+engine/_k.py
